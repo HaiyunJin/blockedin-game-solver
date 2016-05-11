@@ -8,6 +8,8 @@ To solve the puzzle, the red block is labled as 1, empty space as 0,
 and horizontal block are labeled by odd number and the vertical block
 are labeled by even number.
 
+The scrpit works with python2.
+
 There is an example of level 94:
 
 initial94=[  

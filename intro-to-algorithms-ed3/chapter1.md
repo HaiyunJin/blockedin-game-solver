@@ -10,4 +10,3 @@ for x in a:
 
 hello
 hello
-hello

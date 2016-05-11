@@ -20,8 +20,8 @@ initial94=[
 
 Change the permuation in the file download.
 
-ChangeLog:
-2.3: Use dictionary for search and match
-2.2: Breath-first search
-2.1: Depth-first search
-2.0: Some junk
+ChangeLog:  
+2.3: Use dictionary for search and match  
+2.2: Breath-first search  
+2.1: Depth-first search  
+2.0: Some junk  

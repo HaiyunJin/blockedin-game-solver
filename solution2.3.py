@@ -1,5 +1,6 @@
 # based on solution2.2.py
 # use dictionary for the search
+# add comments
 
 class state:
     ''' object: state '''

@@ -1,10 +1,7 @@
 # based on solution2.2.py
 # use dictionary for the search
-<<<<<<< HEAD
 # I made edition to test github
 # I made edition to test github
-=======
->>>>>>> 0347e2c73e41805dd1027dac152ee2191484c147
 
 class state:
     ''' object: state '''

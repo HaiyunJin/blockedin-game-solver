@@ -27,6 +27,3 @@ ChangeLog:
 2.2: Breath-first search  
 2.1: Depth-first search  
 2.0: Some junk  
-=======
-# Learning
-Learning note

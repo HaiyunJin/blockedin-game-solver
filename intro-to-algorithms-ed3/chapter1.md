@@ -8,9 +8,4 @@ for x in a:
     do xx
 ```
 
-hello
-hello
-
-again
-
-and again
+NP-完全问题。

@@ -3,6 +3,7 @@
 # I made edition to test github
 # I made edition to test github
 
+
 class state:
     ''' object: state '''
     def __init__(self,parent,moveblock,movedirection,mode):
